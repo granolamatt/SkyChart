@@ -1,0 +1,7 @@
+skyfield
+redis
+cffi
+cython
+wheel
+scikit-image
+

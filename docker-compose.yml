@@ -1,0 +1,9 @@
+version: '2'
+services:
+  jupyter:
+    image: skychart-jupyter:latest
+    ports:
+      - 0.0.0.0:11100:8888
+    volumes:
+      - ./jupyter:/home/jovyan/work
+
