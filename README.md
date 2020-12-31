@@ -16,3 +16,7 @@ You can then hit your computer ip to see the Sky Chart:
 http://yourip:11100/tree/work/skyfieldtest.ipynb
 
 The login token you can see by running docker-compose logs
+
+The star stacker is very much a work in progress.  It is some concepts I was playing with from Benedikt Bitterli:
+https://benedikt-bitterli.me/astro/
+
